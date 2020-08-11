@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+
+I am a software engineer at Freshworks based out of Chennai, India. I build highly scalable cloud native applications
+and I've worked predominantly on Java/Spring Boot applications deployed to Kubernetes clusters. 
+
+You can get to know more about my work on [my LinkedIn profile](https://www.linkedin.com/in/rajkiran-rajkumar-b4954145/).
 
 <!--
 **rajki/rajki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
