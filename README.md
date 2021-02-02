@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am a software engineer at Freshworks based out of Chennai, India. I build highly scalable cloud native applications
+I am a software engineer at Personio based out of Munich. I build highly scalable cloud native applications
 and I've worked predominantly on Java/Spring Boot applications deployed to Kubernetes clusters. 
 
 You can get to know more about my work on [my LinkedIn profile](https://www.linkedin.com/in/rajkiran-rajkumar-b4954145/).
