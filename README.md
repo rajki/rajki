@@ -1,9 +1,9 @@
 ### Hi there 👋 
 
-I am a software engineer at Personio based out of Munich. I build highly scalable cloud native applications
-and I've worked predominantly on Java/Spring Boot applications deployed to Kubernetes clusters. 
+I am a software engineer at Personio based out of Munich. I build highly scalable cloud native microservices
+and my toolkit of choice is JVM/Spring Boot/K8S/AWS.
 
-You can get to know more about my work on [my LinkedIn profile](https://www.linkedin.com/in/rajkiran-rajkumar-b4954145/).
+You can get to know more about my professional journey on [my LinkedIn profile](https://www.linkedin.com/in/rajki/).
 
 <!--
 **rajki/rajki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
